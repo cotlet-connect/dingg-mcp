@@ -110,6 +110,7 @@ As of November 2026 we found no public official DINGG listing in ChatGPT's apps 
 - [DINGG on Cotlet.dev](https://cotlet.dev/integrations/dingg-api-mcp-server?utm_source=github&utm_medium=readme&utm_campaign=dingg&utm_content=find)
 - [PyPI package dingg-mcp](https://pypi.org/project/dingg-mcp/)
 - [Odel](https://odel.app/modules/cotlet/dingg)
+- [mcpbeat](https://mcpbeat.com/mcp-servers/cotlet/dingg/)
 - [Step-by-step guide (PDF) on Internet Archive](https://archive.org/details/cotlet-connect-dingg-to-ai-agents-guide)
 
 ## Also works with
